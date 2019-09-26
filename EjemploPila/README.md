@@ -1,0 +1,1 @@
+Ejemplo de uso de JUnit 4 para implementar los test sobre una clase que implementa una Pila de números enteros que solamente acepta números primos.
